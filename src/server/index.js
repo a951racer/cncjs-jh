@@ -258,7 +258,7 @@ const createServer = (options, callback) => {
                 }
 
                 addresses.forEach(({ address, family }) => {
-                    log.info('Starting the server at ' + chalk.yellow(`http://${address}:${port}`));
+                    log.info('Starting the fucking server at ' + chalk.yellow(`http://${address}:${port}`));
                 });
             });
         })
