@@ -1,8 +1,8 @@
 {
-  "name": "cncjs",
+  "name": "cncjs-jh",
   "version": "1.9.24",
   "description": "A web-based interface for CNC milling controller running Grbl, Marlin, Smoothieware, or TinyG",
-  "homepage": "https://github.com/cncjs/cncjs",
+  "homepage": "https://github.com/a951racer/cncjs-jh",
   "author": "Cheton Wu <cheton@gmail.com>",
   "main": "./dist/cncjs/server-cli.js",
   "bin": {
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:cncjs/cncjs.git"
+    "url": "git@github.com:a951racer/cncjs-jh.git"
   },
   "license": "MIT",
   "engines": {
@@ -69,10 +69,10 @@
     "postinstall": "opencollective postinstall"
   },
   "build": {
-    "appId": "org.cncjs",
+    "appId": "org.cncjs-jh",
     "asar": false,
     "asarUnpack": [],
-    "productName": "CNCjs",
+    "productName": "CNCjs-JH",
     "directories": {
       "buildResources": "electron-build",
       "output": "output",
