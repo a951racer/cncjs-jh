@@ -151,7 +151,6 @@
     "M109 Set Extruder Temperature": "M109 Ajustar a Temperatura da Extrusora",
     "M190 Set Heated Bed Temperature": "M190 Ajustar a temperatura da cama aquecida",
     "Drop G-code file here": "Solte o arquivo G-code aqui",
-    "Manage Widgets ({{inactiveCount}})": "Gerenciar Módulos ({{inactiveCount}})",
     "Collapse All": "Recolher Todos",
     "Expand All": "Expandir Todos",
     "Corrupted workspace settings": "Configurações de área de trabalho corrompidas",
@@ -533,5 +532,6 @@
     "Show Cutting Tool": "",
     "Ready to start": "",
     "Connect to an IP camera": "",
-    "The URL must be for a Motion JPEG (mjpeg) HTTP or RTSP stream.": ""
+    "The URL must be for a Motion JPEG (mjpeg) HTTP or RTSP stream.": "",
+    "Manage Midgets ({{inactiveCount}})": ""
 }

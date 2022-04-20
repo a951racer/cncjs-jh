@@ -151,7 +151,6 @@
     "M109 Set Extruder Temperature": "set extruder temperatuur",
     "M190 Set Heated Bed Temperature": "set verwarmd bed temperatuur",
     "Drop G-code file here": "Werp uw G-code bestand hier",
-    "Manage Widgets ({{inactiveCount}})": "Beheer Widgets ({{inactiveCount}})",
     "Collapse All": "Alles Inklappen",
     "Expand All": "Alles Uitklappen",
     "Corrupted workspace settings": "Incorrecte werkplaats instellingen",
@@ -533,5 +532,6 @@
     "Show Cutting Tool": "Laat gereedschap zien",
     "Ready to start": "Klaar om te starten",
     "Connect to an IP camera": "Verbind met een IP camera",
-    "The URL must be for a Motion JPEG (mjpeg) HTTP or RTSP stream.": "De URL moet voor een Motion JPEG (mjpeg), HTTP-stream of RTSP-stream zijn."
+    "The URL must be for a Motion JPEG (mjpeg) HTTP or RTSP stream.": "De URL moet voor een Motion JPEG (mjpeg), HTTP-stream of RTSP-stream zijn.",
+    "Manage Midgets ({{inactiveCount}})": ""
 }

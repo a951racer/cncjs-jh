@@ -151,7 +151,7 @@
     "M109 Set Extruder Temperature": "M109 Set Extruder Temperature",
     "M190 Set Heated Bed Temperature": "M190 Set Heated Bed Temperature",
     "Drop G-code file here": "Drop G-code file here",
-    "Manage Widgets ({{inactiveCount}})": "Manage Widgets ({{inactiveCount}})",
+    "Manage Midgets ({{inactiveCount}})": "Manage Midgets ({{inactiveCount}})",
     "Collapse All": "Collapse All",
     "Expand All": "Expand All",
     "Corrupted workspace settings": "Corrupted workspace settings",

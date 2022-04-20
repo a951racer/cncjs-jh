@@ -151,7 +151,6 @@
     "M109 Set Extruder Temperature": "M109 エクストルーダー温度設定",
     "M190 Set Heated Bed Temperature": "M190 ヒーテッドベッド温度設定",
     "Drop G-code file here": "G-codeをここにドラッグ＆ドロップ",
-    "Manage Widgets ({{inactiveCount}})": "ウィジェットの管理 ({{inactiveCount}})",
     "Collapse All": "すべて折りたたむ",
     "Expand All": "すべて展開する",
     "Corrupted workspace settings": "ワークスペースの設定が壊れています",
@@ -533,5 +532,6 @@
     "Show Cutting Tool": "工具を表示する",
     "Ready to start": "スタートの準備ができました",
     "Connect to an IP camera": "IPカメラと接続",
-    "The URL must be for a Motion JPEG (mjpeg) HTTP or RTSP stream.": "このURLはモーションJPEG (mjpeg) HTTP もしくは RTSP ストリームである必要があります。"
+    "The URL must be for a Motion JPEG (mjpeg) HTTP or RTSP stream.": "このURLはモーションJPEG (mjpeg) HTTP もしくは RTSP ストリームである必要があります。",
+    "Manage Midgets ({{inactiveCount}})": ""
 }

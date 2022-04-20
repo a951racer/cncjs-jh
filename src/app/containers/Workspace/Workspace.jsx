@@ -538,7 +538,7 @@ class Workspace extends PureComponent {
                                             onClick={this.updateWidgetsForPrimaryContainer}
                                         >
                                             <i className="fa fa-list-alt" />
-                                            {i18n._('Manage Widgets ({{inactiveCount}})', {
+                                            {i18n._('Manage Midgets ({{inactiveCount}})', {
                                                 inactiveCount: inactiveCount
                                             })}
                                         </Button>
@@ -680,7 +680,7 @@ class Workspace extends PureComponent {
                                                 onClick={this.updateWidgetsForSecondaryContainer}
                                             >
                                                 <i className="fa fa-list-alt" />
-                                                {i18n._('Manage Widgets ({{inactiveCount}})', {
+                                                {i18n._('Manage Midgets ({{inactiveCount}})', {
                                                     inactiveCount: inactiveCount
                                                 })}
                                             </Button>

@@ -247,7 +247,7 @@ const createServer = (options, callback) => {
             });
 
             if (address !== '0.0.0.0') {
-                log.info('Starting the server at ' + chalk.yellow(`http://${address}:${port}`));
+                log.info('Starting the fucking local server at ' + chalk.yellow(`http://${address}:${port}`));
                 return;
             }
 
@@ -258,7 +258,7 @@ const createServer = (options, callback) => {
                 }
 
                 addresses.forEach(({ address, family }) => {
-                    log.info('Starting the fucking server at ' + chalk.yellow(`http://${address}:${port}`));
+                    log.info('Starting the fucking hosted server at ' + chalk.yellow(`http://${address}:${port}`));
                 });
             });
         })
